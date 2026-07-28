@@ -1,6 +1,0 @@
-<script>start("/Users/alishbarehman/Desktop/3D app/dist/");</script>
-<script>onHasParentDirectory();</script>
-<script>addRow("assets","assets",1,128,"128 B",1785262875,"7/28/26, 10:21:15 PM");</script>
-<script>addRow("favicon.svg","favicon.svg",0,9522,"9.3 kB",1785262875,"7/28/26, 10:21:15 PM");</script>
-<script>addRow("icons.svg","icons.svg",0,5031,"4.9 kB",1785262875,"7/28/26, 10:21:15 PM");</script>
-<script>addRow("index.html","index.html",0,456,"456 B",1785262875,"7/28/26, 10:21:15 PM");</script>
